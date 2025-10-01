@@ -59,8 +59,5 @@ This is my **first project** in MTech Electric Vehicle Technology portfolio.
 
 ---
 
-## Next Step
-Next project in this portfolio → **DC Motor Speed Control in MATLAB Simulink**
-=======
 # EV-Projects
 MTech EV Technology Projects (Power Electronics, BMS, Motor Drives, AI/ML)
