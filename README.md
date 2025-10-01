@@ -31,16 +31,16 @@ This is my **first project** in MTech Electric Vehicle Technology portfolio.
 ![Circuit](screenshots/Circuit.png)  
 
 **Output Voltage Waveform**  
-![Voltage across load](screenshots/Voltage across load.png)
+![Voltage across load](screenshots/Voltageacrossload.png)
 
 **Input Voltage Waveform**
-![input voltage](input voltage.png) 
+![input voltage](inputvoltage.png) 
 
 **Inductor Current waveform**
-![current through inductor](current through inductor.png)
+![current through inductor](currentthroughinductor.png)
 
 **Pulse Generator waveform**
-![switching pulses for MOSFET](switching pulses for MOSFET.png)
+![switching pulses for MOSFET](switchingpulsesforMOSFET.png)
 
 ---
 
