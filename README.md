@@ -11,7 +11,7 @@ This is my **first project** in MTech Electric Vehicle Technology portfolio.
 ##  Model Details
 - **Input Voltage:** 24V DC  
 - **Switching Frequency:** 20 kHz  
-- **Duty Cycle:** 50%  
+- **Duty Cycle:** 0.5 (50%)  
 - **Inductor (L):** 1 mH  
 - **Capacitor (C):** 220 µF  
 - **Load Resistor (R):** 10 Ω  
@@ -31,23 +31,24 @@ This is my **first project** in MTech Electric Vehicle Technology portfolio.
 ![Circuit](screenshots/Circuit.png)  
 
 **Output Voltage Waveform**  
-![Voltage across load](screenshots/Voltageacrossload.png)
+![Voltage across load](screenshots/voltage%20across%20load.png)
 
 **Input Voltage Waveform**
-![input voltage](inputvoltage.png) 
+![input voltage](screenshots/input%20voltage.png) 
 
 **Inductor Current waveform**
-![current through inductor](currentthroughinductor.png)
+![current through inductor](screenshots/current%20through%20inductor.png)
 
 **Pulse Generator waveform**
-![switching pulses for MOSFET](switchingpulsesforMOSFET.png)
+![switching pulses for MOSFET](screenshots/switching%20pulses%20for%20MOSFET.png)
 
 ---
 
 ## How to Run
-1. Open 'buck_converter.slx' in MATLAB Simulink.  
+1. Open `buck_converter.slx` in MATLAB Simulink.  
 2. Run the simulation for **1 second**.  
-3. Observe input and output waveforms on the Scope.  
+3. Observe input and output waveforms on the Scope.
+4. Change the duty cycle value to vary the output voltage.  
 
 ---
 
