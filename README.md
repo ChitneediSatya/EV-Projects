@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Buck Converter Simulation in MATLAB/Simulink
 
 ##  Project Overview
@@ -28,7 +29,7 @@ This is my **first project** in MTech Electric Vehicle Technology portfolio.
 
 ## 📸 Screenshots
 **Circuit Diagram**  
-![Circuit](screenshots/circuit.png)  
+![Circuit](screenshots/Circuit.png)  
 
 **Output Voltage Waveform**  
 ![Voltage across load](screenshots/Voltage across load.png)
@@ -60,3 +61,7 @@ This is my **first project** in MTech Electric Vehicle Technology portfolio.
 
 ## Next Step
 Next project in this portfolio → **DC Motor Speed Control in MATLAB Simulink**
+=======
+# EV-Projects
+MTech EV Technology Projects (Power Electronics, BMS, Motor Drives, AI/ML)
+>>>>>>> 7567d25c3e7f3d860f4e8d2baa789ae974e315d6
